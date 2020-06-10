@@ -23,14 +23,7 @@
 			<rich_text></rich_text>
 		</node>
 	</node>
-	<node custom_icon_id="0" foreground="" is_bold="False" name="第二章-寄存器" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1588496897.12" ts_lastsave="1591804934.61" unique_id="4">
-		<rich_text>1. 内部总线 vs. 外部总线
-2. 8086 有 14个寄存器， AX, BX, CX, DX, SI, DI, SP, BP, IP, CS, SS, DS, ES, PSW
-3. 8086 所有寄存器都是16位，可以存放两个字节
-4. 为了保证兼容性，四个寄存器都可以分为独立的八位寄存器使用（AXBXCXDX）AX可以分为AH和AL（high and low)
-
-二
-1. 字在寄存器中的储存；字是16位
-2. 汇编指令例子： mov ax, 18     把18送进ax</rich_text>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Lesson 2" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1588496897.12" ts_lastsave="1588496897.12" unique_id="4">
+		<rich_text></rich_text>
 	</node>
 </cherrytree>
